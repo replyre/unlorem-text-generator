@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unlorem-text-generator/static/css/main.aa59b54d.css",
+    "main.js": "/unlorem-text-generator/static/js/main.634b5b07.js",
+    "static/js/453.6f05b218.chunk.js": "/unlorem-text-generator/static/js/453.6f05b218.chunk.js",
+    "index.html": "/unlorem-text-generator/index.html",
+    "main.aa59b54d.css.map": "/unlorem-text-generator/static/css/main.aa59b54d.css.map",
+    "main.634b5b07.js.map": "/unlorem-text-generator/static/js/main.634b5b07.js.map",
+    "453.6f05b218.chunk.js.map": "/unlorem-text-generator/static/js/453.6f05b218.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa59b54d.css",
+    "static/js/main.634b5b07.js"
+  ]
+}
